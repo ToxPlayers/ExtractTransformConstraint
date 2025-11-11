@@ -1,0 +1,11 @@
+{
+  "name": "com.tox.movementsystem",
+  "displayName": "Extract Transform Data",
+  "description": "Extract Transform Position and Rotation before animation rigging applies changes",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "author": "Tox (https://github.com/ToxPlayers/ExtractTransformConstraint)",
+  "homepage": "https://github.com/ToxPlayers/ExtractTransformConstraint",
+  "dependencies": {  
+  }
+}
