@@ -1,5 +1,5 @@
 {
-  "name": "com.tox.movementsystem",
+  "name": "com.tox.extracttransformdata",
   "displayName": "Extract Transform Data",
   "description": "Extract Transform Position and Rotation before animation rigging applies changes",
   "version": "1.0.0",
